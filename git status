@@ -1,0 +1,11 @@
+[33mcommit e4e38c830b980aecdbc45a4710c934c277fac8be[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: sergio gonzalez <sergionavalosa29@gmail.com>
+Date:   Wed Nov 11 14:02:37 2026 +0100
+
+    cambio en parametros de suma y criterios de validacion
+
+[33mcommit 3c5a22bea7c229526bd8dc6f3db25f728ac74e2b[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: sergio gonzalez <sergionavalosa29@gmail.com>
+Date:   Wed Nov 11 13:46:34 2026 +0100
+
+    2primera subida calculadora - solo sumar
