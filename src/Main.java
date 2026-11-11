@@ -4,7 +4,7 @@ public class Main {
         Calculadora calculadora = new Calculadora  ();
 
         
-        int resultado = calculadora.sumar(10, 8);
+        int resultado = calculadora.sumar(5, 5);
         
         System.out.println("Resultado" + resultado);
     }
