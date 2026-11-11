@@ -1,6 +1,6 @@
 /**
  * 
- * calculadora - calcula la suma de dos numeros enteros.
+ * calculadora - calcula la suma de dos numeros enteros. siempre positivos
  * 
  * @param a primer numero
  * @param b segundo numero 
